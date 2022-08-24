@@ -1,2 +1,2 @@
 # prueba-api-node
-prieba de fucnionamiento en node
+prueba de fucnionamiento en node
