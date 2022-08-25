@@ -1,4 +1,4 @@
-const express = require('express');
+import express from 'express';
 const cors = require('cors');
 const morgan = require('morgan');
 const userRouter = require('../routes/user.js');
